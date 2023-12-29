@@ -22,3 +22,7 @@ body {
     color: green;
     margin-bottom: 40px;
 }
+
+.deploy {
+    color: purple;
+}
